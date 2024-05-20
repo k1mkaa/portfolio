@@ -19,7 +19,6 @@ html{
 }
 
 body {
-    transition: scroll-behavior 0.8s ease-in-out;
     scroll-behavior: smooth;
 }
 
