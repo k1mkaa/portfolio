@@ -10,6 +10,9 @@
 		url(Brandon_bld.otf); 
 }
 
+html{
+    scroll-behavior: smooth;
+}
 .clear{
     z-index: -10;
     position: absolute;
@@ -17,6 +20,7 @@
 
 body {
     transition: scroll-behavior 0.8s ease-in-out;
+    scroll-behavior: smooth;
 }
 
 .box{
